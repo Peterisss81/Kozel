@@ -895,7 +895,7 @@ CÍL: Ukázat, že nejste laik, máte data z ÚRS a nebudete platit 100% marži.
 
 FÁZE 2: TECHNICKÁ KONFRONTACE (Když začnou mluvit o "náročnosti a svahu")
 --------------------------------------------------------------------------------
-POINT: Rozdíl v oceli (0,9 t vs 11,5 t) a neprovedené sondy.
+POINT: Rozdíl v oceli (0,9 (1,7) t vs 11,5 t) a neprovedené sondy.
 KDY: Když firma řekne: "Pane, je to ve svahu, je to nečekaně složité."
 REAKCE: "Složité to je, protože jste neudělali sondy, které statik nařídil. 
         A 12x víc oceli, než jste sami vyprojektovali, mi nevysvětlíte."
@@ -985,6 +985,19 @@ ODHADOVANÁ ÚSPORA 2. ETAPY (BEZ DPH)                                          
 ====================================================================================================================================
 * Zdroje reálných cen: Cenová soustava ÚRS 2026, tržní ceny materiálů (DEK, Heluz, Velux, Isover, Satjam).
 ====================================================================================================================================
+
+Ano — v zásadě je v cenové soustavě ÚRS (včetně verze 2026/I) cena uvedená u položky považována za „kompletní“ cenu za jednotku, která typicky zahrnuje:
+✅ materiál (včetně dodání na stavbu),
+✅ práci (mzdové náklady i povinné odvody),
+✅ provoz zařízení a transport na pracoviště (např. doprava materiálu, strojů),
+✅ režii a zisk.
+
+Tento přístup je běžný u cen zjišťovaných tržními průzkumy (tzv. cenová soustava), kdy se směrná cena položky uvádí jako komplexní cena za provedení dané práce včetně práce a dopravy — tedy ne jen izolovaná cena materiálu nebo hodinová sazba práce. Data se zjišťují jako ceny sjednané mezi dodavatelem a odběratelem pro jednotku stavební práce a zahrnují všechny relevantní náklady (materiál, práce, doprava, strojní provoz, režie a profit) ve vrtané cenové úrovni.
+
+Stručně:
+🔹 Pokud si vezmeš položku z CS ÚRS 2026, její jednotková cena je určena tak, že obsahuje práci i dopravu v rámci té ceny — nevyžaduje se zvláštní připočítání externí dopravy nebo práce, pokud není v textu položky uvedeno něco jiného (např. práce „bez dopravy“).
+
+👉 Výjimkou mohou být speciální případy, kdy v popisu položky explicitně stojí, že doprava nebo práce se oceňují samostatně (např. „pouze materiál bez dopravy“ nebo „montážní práce bezřízení dopravy“) — v takovém případě se doplňuje podle instrukcí položky nebo podle metodických pravidel ÚRS.
 
 
 ================================================================================
