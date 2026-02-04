@@ -1104,11 +1104,13 @@ Alternativní položka: Trvejte na přecenění podle položky pro zdivo na malt
 Máte v tom rozpočtu i odhadovaný objem (kolik m³ celkem počítají)? Pokud je to větší objem (např. nad 10 m³), je ten rozdíl v ceně už kritický.
 
 
+„Všiml jsem si, že položka 'Přesun hmot 2,5 %' je počítána z celkové částky rozpočtu, tedy i z položek jako je Technický dozor, Inženýring, zemní práce a betonáž čerpadlem. Protože se u dozoru a inženýringu nejedná o fyzický materiál a u betonu čerpaného pumpou je doprava již v ceně, žádám o přepočet této položky pouze z relevantních montážních prací.“
 
 Bagr: \(16\text{\ h}\times 1\text{\ }200\text{\ Kč}=19\text{\ }200\text{\ Kč}\)Dělník: \(16\text{\ h}\times 400\text{\ Kč}=6\text{\ }400\text{\ Kč}\)Doprava stroje na místo: cca \(5\text{\ }000\text{\ Kč}\)Režie a zisk (20 %): cca \(6\text{\ }000\text{\ Kč}\)\(\text{Celkem\ reálná\ cena}=19\text{\ }200+6\text{\ }400+5\text{\ }000+6\text{\ }000=36\text{\ }600\text{\ Kč}\) ➡️ Krok 3: Porovnání s nabídkou firmy Rozdíl mezi nabídkou firmy a reálným odhadem u sypkého zdiva:\(\text{Rozdíl}=188\text{\ }800\text{\ Kč}-36\text{\ }600\text{\ Kč}=\mathbf{152}\text{\ }\mathbf{200}\text{\ Kč}\)
 
 
 Můj tip pro vyjednávání: Firma vám pravděpodobně řekne: "To jsou tabulkové ceny, takhle to háže software." Vaše odpověď:"Software počítá s tím, že se bourá pevný masiv. Tady je to sypký kámen, který bagr jen shodí. Navrhuji tuto položku vyjmout z procentuálního výpočtu a buď ji ocenit hodinovou sazbou bagru, nebo použít kód pro sypané zdivo s cenou kolem \(900\ \text{Kč/m}^{3}\)." Rozdíl v rozpočtu po této úpravě: Nová cena bourání: \(64\times 900=57\ 600\ \text{Kč}\)Nový přesun hmot (2,5 %): \(1\ 440\ \text{Kč}\)Celkem: 59 040 Kč Ušetříte: 134 480 Kč.
+
 
 
 
