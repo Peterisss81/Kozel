@@ -1077,3 +1077,38 @@ Závěr pro dnešek:
 -----------------
 Tvůj postup je naprosto profesionální. Firma teď musí „odkrýt karty“. Pokud ty výkresy nedodají, nemohou po tobě chtít podpis. Pokud je dodají, budeš mít v ruce přesná čísla, která je usvědčí z předražení.
 Teď už se opravdu vyspi, máš to skvěle rozehrané. Zítra u jednání zachovej klid – jsi v právu a máš v ruce silnější karty než oni. Hodně štěstí! Stavební standardy 2026 jsou na tvé straně.
+
+
+
+CENA = MATERIÁL + MZDY + STROJE + ODVODY + OPN (Ostatní přímé náklady) + REŽIE + ZISK
+
+MATERIÁL: Přímý materiál (spotřebovaný na výrobu).
+MZDY: Přímé mzdy pracovníků (odměny za práci).
+STROJE: Náklady na provoz a odpisy strojů.
+ODVODY: Povinné odvody z mezd (sociální a zdravotní pojištění za zaměstnance).
+OPN (Ostatní přímé náklady): Náklady přímo přiřaditelné k zakázce, např. energie, subdodávky.
+REŽIE: Nepřímé náklady (výrobní, správní, odbytová) – např. nájemné, energie, pojištění.
+ZISK: Plánovaná částka zisku nad rámec nákladů. 
+
+
+
+To je pro vás v tuto chvíli nevýhodné. Pevná položka (neboli jednotková cena) v rozpočtu znamená, že firmu nezajímá, jak snadno to šlo – i když do zdi jednou rýpnou bagrem a ona spadne, vy zaplatíte plných 2 950 Kč/m³.
+Firma pravděpodobně použila standardní ceníkový kód (např. položka ÚRS 966 00-6132) pro "Bourání základového zdiva z kamene na maltu cementovou", což je ta nejtěžší a nejdražší varianta.
+Jak se bránit? (Vaše argumenty pro vyjednávání):
+Chyba v zatřídění: Upozorněte je, že zdivo není soudržné. V cenících existují položky pro "rozebrání zdiva" nebo "bourání zdiva na maltu vápennou/pískovou", které mají poloviční sazby.
+Chybějící odvoz: Argumentujte tím, že cena 2 950 Kč je v mnoha regionech běžná včetně naložení a odvozu. Pokud suť zůstává na místě, platíte jen čistý čas stroje, který je u sypké zdi minimální.
+!------ ---- Porovnání s hodinovou sazbou: Řekněte jim: "Pánové, metr krychlový sypkého kamene bagr shodí za 10 minut. Při vaší ceně mu platím 17 700 Kč za hodinu práce. To neodpovídá realitě na trhu."
+Doporučený postup:
+Požadujte změnu na "Hodinové zúčtovací sazby" (HZS): U bouraček, kde je stav konstrukce nejistý, je to férovější. Zaplatíte reálný čas bagru (cca 800–1 200 Kč/hod) a dělníka (300–450 Kč/hod).
+Alternativní položka: Trvejte na přecenění podle položky pro zdivo na maltu vápennou nebo sucho, kde se ceny bez odvozu pohybují kolem 900–1 200 Kč/m³.
+Máte v tom rozpočtu i odhadovaný objem (kolik m³ celkem počítají)? Pokud je to větší objem (např. nad 10 m³), je ten rozdíl v ceně už kritický.
+
+
+
+Bagr: \(16\text{\ h}\times 1\text{\ }200\text{\ Kč}=19\text{\ }200\text{\ Kč}\)Dělník: \(16\text{\ h}\times 400\text{\ Kč}=6\text{\ }400\text{\ Kč}\)Doprava stroje na místo: cca \(5\text{\ }000\text{\ Kč}\)Režie a zisk (20 %): cca \(6\text{\ }000\text{\ Kč}\)\(\text{Celkem\ reálná\ cena}=19\text{\ }200+6\text{\ }400+5\text{\ }000+6\text{\ }000=36\text{\ }600\text{\ Kč}\) ➡️ Krok 3: Porovnání s nabídkou firmy Rozdíl mezi nabídkou firmy a reálným odhadem u sypkého zdiva:\(\text{Rozdíl}=188\text{\ }800\text{\ Kč}-36\text{\ }600\text{\ Kč}=\mathbf{152}\text{\ }\mathbf{200}\text{\ Kč}\)
+
+
+Můj tip pro vyjednávání: Firma vám pravděpodobně řekne: "To jsou tabulkové ceny, takhle to háže software." Vaše odpověď:"Software počítá s tím, že se bourá pevný masiv. Tady je to sypký kámen, který bagr jen shodí. Navrhuji tuto položku vyjmout z procentuálního výpočtu a buď ji ocenit hodinovou sazbou bagru, nebo použít kód pro sypané zdivo s cenou kolem \(900\ \text{Kč/m}^{3}\)." Rozdíl v rozpočtu po této úpravě: Nová cena bourání: \(64\times 900=57\ 600\ \text{Kč}\)Nový přesun hmot (2,5 %): \(1\ 440\ \text{Kč}\)Celkem: 59 040 Kč Ušetříte: 134 480 Kč.
+
+
+
