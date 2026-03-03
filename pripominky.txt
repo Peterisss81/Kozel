@@ -1491,4 +1491,61 @@ TIPY:
 
 
 
++--------------------------------------------------------------------------------------------+
+|                   Přehled nároků a argumentů pro jednání s firmou                           |
++----------------------------+-------------------------+-------------------------------------+
+| Kategorie                  | Konkrétní případ        | Argument / Proč hrál do karet       |
++----------------------------+-------------------------+-------------------------------------+
+| Záloha                     | 1,7 mil Kč             | Část zálohy byla použita na práce   |
+|                            |                         | a materiál, který nelze doložit     |
++----------------------------+-------------------------+-------------------------------------+
+| Projekt & posudky          | 195 tis. Kč bez DPH    | Některé posudky (statika, radon)   |
+|                            |                         | nebyly relevantní pro novostavbu    |
++----------------------------+-------------------------+-------------------------------------+
+| Dotace                     | 80 tis. Kč bez DPH     | Dotace byla přiznána na rekonstrukci|
+|                            |                         | Nyní nelze získat – finanční újma  |
++----------------------------+-------------------------+-------------------------------------+
+| Ztracené bednění & beton   | Různé položky:         | Nekonzistentní ceny, nejasné složení|
+|                            | ZB, podkladový beton,  | materiálu a práce; podpora nároku  |
+|                            | lití pasů, lití 80 000 | na vrácení záloh a kontrolu faktur |
++----------------------------+-------------------------+-------------------------------------+
+| Železo                     | Původně 11,7 t,        | Původní návrh bez statického posudku|
+|                            | sníženo na 7,5 t       | Firma se řídila laickými radami    |
++----------------------------+-------------------------+-------------------------------------+
+| Prostupy                   | 1 ks = 15 000 Kč       | Nadhodnocené; z projektu jasně 7 ks |
+|                            |                         | Cena nesouhlasí s realitou         |
++----------------------------+-------------------------+-------------------------------------+
+| Vedlejší náklady           | Přesun osob, nákladní   | Nekonzistence procent, některé položky|
+|                            | doprava, přesun materiálu| počítány nadhodnoceně, nejasné    |
+|                            | podružné materiály      | Procenta měnící se mezi fakturami |
++----------------------------+-------------------------+-------------------------------------+
+| Doprava                     | Železo 11,7 t          | Skutečný náklad 4 000 Kč vs.       |
+|                             |                         | 5 % z ceny železa = 34 515 Kč      |
+|                             |                         | → nadhodnocené náklady             |
++----------------------------+-------------------------+-------------------------------------+
+| Nepoužitý / starý materiál | Keramické překlady,     | Firma účtuje jako nový, fakticky    |
+|                            | palety ZB, prkna        | buď starý materiál nebo zbytky     |
++----------------------------+-------------------------+-------------------------------------+
+| Ruční práce vs. efektivní  | Bourání starého domu    | Zbytečně dlouhé ruční práce místo   |
+|                            | 14 dní vs. 2 dny bagr  | efektivního postupu → zbytečné náklady |
++----------------------------+-------------------------+-------------------------------------+
+| Systémové chyby v rozpočtu | Nekonzistentní proc. u  | Firma nedodržuje vlastní metodiku, |
+|                            | vedlejších nákladů,     | rozdílné ceny prostupů, betonu,    |
+|                            | různé ceny betonu,      | železa → argument pro korekci záloh |
+|                            | různé ceny železa       |                                     |
++----------------------------+-------------------------+-------------------------------------+
+| Měsíc na přepracování      | 13.3.2026              | Firma potřebovala měsíc na           |
+| změnových listů            |                         | přepracování – nedostatečná příprava|
+|                            |                         | původních rozpočtů                  |
++----------------------------+-------------------------+-------------------------------------+
+| Psychologický / legální tlak| Možnost připomínky ČKAIT | Podpora, aby firma přistoupila na  |
+|                            | / pojišťovna            | korektní a transparentní vyúčtování|
++----------------------------+-------------------------+-------------------------------------+
+| Sankce / úroky             | 0,03–0,05 % denně      | Motivace k včasnému vyrovnání       |
+|                            | za prodlení             | platby                                |
++----------------------------+-------------------------+-------------------------------------+
+| Shrnutí                     | Všechny body dohromady  | Podporuje nárok na vrácení záloh,  |
+|                            |                         | zbytečných nákladů a jasnou kontrolu|
+|                            |                         | finálního vyúčtování                 |
++--------------------------------------------------------------------------------------------+
 
