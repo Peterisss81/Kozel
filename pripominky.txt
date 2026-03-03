@@ -1113,4 +1113,382 @@ Můj tip pro vyjednávání: Firma vám pravděpodobně řekne: "To jsou tabulk
 
 
 
+Jak by mohla znít velmi klidná formulace
+
+Například:
+
+Investor nemůže akceptovat formulaci, že úprava rozsahu proběhla na základě domluvy, aniž by byla vyjasněna otázka, zda byly splněny podmínky statického posudku týkající se provedení sond před zahájením prací.
+Zjištěný stav konstrukcí mohl být ovlivněn absencí předepsaného průzkumu.
+
+To není útok.
+To je věcné oddělení odpovědnosti.
+
+⚖️ Realistický pohled
+
+Upřímně:
+Tohle už není jen technický problém.
+Tohle je situace, kde se může řešit:
+
+vadný projekt,
+nedostatečný průzkum,
+nebo chyba odborné péče.
+
+A firma to ví.
+Proto ta formulace o „domluvě s investorem“.
+
+
+Teď nejdůležitější věta pro tebe
+To, že jsi diskutoval řešení a nechal si ho nacenit, neznamená, že jsi přijal odpovědnost za vznik problému.
+To jsou dvě rozdílné věci.
+
+
+
+Co bych udělal já na tvém místě
+Nechal si dodat upravené změnové listy.
+Neřešil už jejich kvalitu.
+Odpověděl bych:
+Po vyhodnocení ekonomického dopadu změn jsem dospěl k závěru, že realizace za těchto podmínek není pro mne přijatelná. Navrhuji ukončení smlouvy dohodou a finanční vypořádání dle skutečně provedených prací.
+To je čisté, dospělé a silné.
+
+
+
+
+
+1️⃣ Vstupní údaje
+Kategorie	Záloha / faktura	Poznámka
+Práce (bourání)	1,700,000 Kč	Záloha na práce
+Projekt + posudky	195,000 Kč bez DPH	Projekt, statika, radon, ČOV atd.
+Vyřízení dotace	80,000 Kč bez DPH	Služba firmy pro získání dotace
+
+DPH: 21 % → projekt a dotace s DPH:
+
+Projekt: 195,000 × 1,21 ≈ 235,950 Kč
+
+Dotace: 80,000 × 1,21 ≈ 96,800 Kč
+
++--------------------------+------------+----------------+--------------------------------+--------------------------------------------------------------+
+| Položka                  | Zaplaceno  | Skutečná/nutná | Zbytečné náklady / nárok k vrácení | Poznámka                                                      |
++--------------------------+------------+----------------+--------------------------------+--------------------------------------------------------------+
+| Bourání (ruční vs bagr)  | 1,700,000  | 63,636         | 1,636,364                       | Rozdíl mezi fakturovanou ruční demontáží a hypotetickou     |
+|                          |            |                |                                | bagrovou demolicí (2 dny), zbytečné náklady vzniklé        |
+|                          |            |                |                                | nedostatečným průzkumem a plánováním                        |
++--------------------------+------------+----------------+--------------------------------+--------------------------------------------------------------+
+| Projekt + posudky         | 235,950    | 84,700         | 151,250                         | Část projektových prací a posudků, které nebyly provedeny   |
+|                          |            |                |                                | nebo nebyly nutné (statika, radon), zbytečné náklady       |
++--------------------------+------------+----------------+--------------------------------+--------------------------------------------------------------+
+| Vyřízení dotace           | 96,800     | 0              | 96,800                          | Poplatek firmě za vyřízení dotace, kterou byste jinak       |
+|                          |            |                |                                | nepožadovali, protože objekt by byl správně identifikován   |
++--------------------------+------------+----------------+--------------------------------+--------------------------------------------------------------+
+| CELKEM                    | 2,032,750  | 148,336        | 1,884,414                       | Celková orientační částka k vrácení / kompenzaci           |
++--------------------------+------------+----------------+--------------------------------+--------------------------------------------------------------+
+
+
+
+### VYROVNÁNÍ ZÁLOH - obsáhlá verze
+Předmět: Vyrovnání zálohy a zbytečných nákladů – stavba [adresa / název projektu]
+
+Text e-mailu:
+
+Dobrý den [jméno kontaktní osoby],
+
+rádi bychom otevřeli jednání ohledně vyrovnání záloh a vzniklých nákladů u stavby [adresa/název projektu]. Po podrobné kontrole provedených prací, projektových nákladů a dodaného materiálu jsme vyhodnotili následující:
+
+Položka	Zaplaceno	Skutečná/nutná	Zbytečné náklady / nárok k vrácení	Poznámka
+Bourání (ruční vs bagr)	1,700,000	63,636	1,636,364	Rozdíl mezi fakturovanou ruční demontáží a hypotetickou bagrovou demolicí (2 dny), zbytečné náklady vzniklé nedostatečným průzkumem a plánováním
+Projekt + posudky	235,950	84,700	151,250	Část projektových prací a posudků, které nebyly provedeny nebo nebyly nutné (statika, radon)
+Vyřízení dotace	96,800	0	96,800	Poplatek firmě za vyřízení dotace, kterou bychom jinak nepožadovali, protože objekt byl identifikován nesprávně
+CELKEM	2,032,750	148,336	1,884,414	Celková orientační částka k vrácení / kompenzaci
+
+Dále bychom rádi zdůraznili situaci s materiálem dodaným na staveniště:
+
+Během příprav na stavbu byly dodány palety ztraceného bednění, keramické překlady nad okna/dveře a stavební prkna.
+
+Práce byly ukončeny během bourací fáze, žádný nový materiál nebyl instalován ani použit.
+
+Materiál, který je na staveništi, nebyl součástí provedených prací, a některé položky (např. keramické překlady) byly použité nebo opotřebované, proto nemůže být odečten z nároku na vrácení zálohy a zbytečných nákladů.
+
+Cílem tohoto přehledu je vyjasnit, co bylo skutečně provedeno, a jaká částka představuje zbytečné náklady, které vznikly rozdílem mezi plánovanou a skutečnou realizací.
+
+Rádi bychom s Vámi dohodli způsob vyrovnání těchto nákladů, ideálně formou vrácení části zálohy a fakturovaných položek odpovídajících zbytečným nákladům. Jsme otevřeni diskuzi a případným návrhům kompenzace, ale rádi bychom našli řešení, které odpovídá reálné hodnotě provedených prací a služeb.
+
+Prosíme o Vaši reakci a návrh, jak můžeme tuto situaci konstruktivně vyřešit.
+
+S pozdravem,
+[Vaše jméno]
+[Společnost / kontaktní údaje]
+
+
+### VYROVNÁNÍ ZÁLOH - stručná verze
+Perfektně, tady je stručnější verze e-mailu, vhodná pro první oslovení, stále profesionální, ale méně formální a bez velké tabulky:
+
+Předmět: Vyrovnání záloh a nákladů – stavba [adresa / název projektu]
+
+Text e-mailu:
+
+Dobrý den [jméno kontaktní osoby],
+
+rádi bychom otevřeli jednání ohledně vyrovnání záloh a vzniklých nákladů u stavby [adresa/název projektu]. Po kontrole provedených prací a souvisejících nákladů jsme zjistili, že vznikly zbytečné náklady, které se týkají:
+
+Rozdíl mezi fakturovanou ruční demolicí a hypotetickou bagrovou prací
+
+Projektových a posudkových prací, které nebyly provedeny nebo nebyly nutné
+
+Poplatku za vyřízení dotace, kterou bychom jinak nepožadovali
+
+Dále bychom rádi zdůraznili situaci s materiálem dodaným na staveniště. Práce byly ukončeny během bourací fáze, žádný nový materiál nebyl instalován ani použit. Část dodaného materiálu (např. keramické překlady) byla již použitá nebo opotřebovaná, proto nemůže být odečtena z nároku na vrácení zálohy a zbytečných nákladů.
+
+Rádi bychom s Vámi našli způsob vyrovnání těchto nákladů, ideálně formou vrácení částky odpovídající zbytečným nákladům, a jsme otevřeni diskuzi o možných variantách.
+
+Prosíme o Vaši reakci a návrh, jak tuto situaci konstruktivně vyřešit.
+
+S pozdravem,
+[Vaše jméno]
+[Společnost / kontaktní údaje]
+
+
+### VYROVNÁNÍ ZÁLOH - splátková verze
+Perfektně, tady je kompletní finální návrh e-mailu, který zahrnuje všechny důležité body – přehled nákladů, stav materiálu, preferovaný jednorázový termín a záložní splátkový plán s pevnými termíny a úroky z prodlení:
+
+Předmět: Vyrovnání záloh a zbytečných nákladů – stavba [adresa / název projektu]
+
+Text e-mailu:
+
+Dobrý den [jméno kontaktní osoby],
+
+rádi bychom otevřeli jednání ohledně vyrovnání záloh a vzniklých nákladů u stavby [adresa/název projektu]. Po podrobné kontrole provedených prací, projektových nákladů a dodaného materiálu jsme vyhodnotili následující:
+
+Položka	Zaplaceno	Skutečná/nutná	Zbytečné náklady / nárok k vrácení	Poznámka
+Bourání (ruční vs bagr)	1,700,000	63,636	1,636,364	Rozdíl mezi fakturovanou ruční demontáží a hypotetickou bagrovou demolicí, zbytečné náklady vzniklé nedostatečným průzkumem a plánováním
+Projekt + posudky	235,950	84,700	151,250	Část projektových prací a posudků, které nebyly provedeny nebo nebyly nutné (statika, radon)
+Vyřízení dotace	96,800	0	96,800	Poplatek firmě za vyřízení dotace, kterou bychom jinak nepožadovali, protože objekt byl identifikován nesprávně
+CELKEM	2,032,750	148,336	1,884,414	Celková orientační částka k vrácení / kompenzaci
+
+Dále bychom rádi zdůraznili situaci s materiálem dodaným na staveniště:
+
+Práce byly ukončeny během bourací fáze, žádný nový materiál nebyl instalován ani použit.
+
+Dodaný materiál (palety ztraceného bednění, keramické překlady, stavební prkna) nebyl součástí provedených prací a některé položky byly již použité nebo opotřebované.
+
+Tento materiál proto nemůže být odečten z nároku na vrácení zálohy a zbytečných nákladů.
+
+Preferovaný způsob vyrovnání
+
+Jednorázová platba: očekáváme, že celá částka 1 884 414 Kč bude uhrazena nejpozději do [datum].
+
+Záložní splátkový plán (pokud by jednorázová platba nebyla možná)
+
+splátka: 50 % (942 207 Kč) do [datum1]
+
+splátka: 25 % (471 103 Kč) do [datum2]
+
+splátka: 25 % (471 103 Kč) do [datum3]
+
+Úrok z prodlení: 0,05 % z dlužné částky za každý den prodlení, počínaje dnem po uplynutí termínu splátky
+
+Splátka	Částka (Kč)	Úrok za 7 dní prodlení	Úrok za 14 dní prodlení
+1.	942 207	3 319	6 638
+2.	471 103	1 660	3 320
+3.	471 103	1 660	3 320
+
+Tento plán dává firmě jasnou a férovou cestu k vyrovnání nároků, zároveň motivuje k dodržení termínů.
+
+Důraz na konstruktivní řešení:
+Chceme tuto situaci vyřešit mimosoudně a férově. Pro úplnost doplňujeme, že zbytečné náklady by se v případě sporu mohly řešit prostřednictvím pojistky odpovědnosti firmy a také existuje možnost hodnocení řádného postupu u ČKAIT. Naším cílem ale není eskalace, ale dohoda, která odpovídá skutečně provedeným pracím a zbytečným nákladům.
+
+Prosíme o Vaši reakci a návrh, jak tuto situaci konstruktivně vyřešit.
+
+S pozdravem,
+[Vaše jméno]
+[Společnost / kontaktní údaje]
+
+Pokud chceš, můžu ti ještě připravit verzi pro tisk / vložení do Notepadu, kde bude celá tabulka a text přesně formátovaný ASCII stylem, aby se ti to pěkně zobrazilo a mohlo se poslat jako příloha nebo uložit.
+
+Chceš, abych udělal i tu ASCII verzi?
+
+
++---------------------------------------------------------------------------------------------------+
+|                 ARGUMENTY PRO DOHODU – STAVBA [ADRESA / NÁZEV PROJEKTU]                           |
++---------------------------+-----------------------------------------------------------------------+
+| Fakta hovoří ve váš prospěch                                                             |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Ukončené práce během bourací fáze | Žádná nová stavba nezačala; materiál nebyl využit.        |
+| 2. Zbytečné náklady               | Rozdíl mezi ruční demolicí vs. bagr, projektové posudky,|
+|                                   | vyřízení dotace, které nebyly nutné.                   |
+| 3. Dodaný materiál                 | Palety bednění, keramické překlady, prkna – většina     |
+|                                   | nepoužitá nebo opotřebovaná.                          |
++---------------------------+-----------------------------------------------------------------------+
+| Finanční a právní tlak                                                              |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Pojistka firmy                 | Možnost náhrady škody přes pojišťovnu – reálné riziko |
+| 2. ČKAIT                          | Hrubé nedodržení řádného postupu může vést k profesním|
+|                                   | sankcím.                                              |
++---------------------------+-----------------------------------------------------------------------+
+| Jednoduchost a rychlost dohody                                                     |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Mimosoudní řešení              | Jednorázová platba nebo pevně stanovený splátkový     |
+|                                   | plán = minimální administrativní náročnost.           |
+| 2. Riziko sporu                    | Nedohoda → dlouhý, drahý a veřejný právní spor.       |
++---------------------------+-----------------------------------------------------------------------+
+| Motivace ke splnění termínů                                                       |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Pevné termíny + úroky z prodlení   | 0,05 %/den = rychlá finanční motivace platit včas. |
++---------------------------+-----------------------------------------------------------------------+
+| Férovost a dobré jméno                                                            |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Férová nabídka                  | Celková částka nebo rozumný splátkový plán – firma   |
+|                                   | ukazuje, že jedná profesionálně a korektně.          |
++---------------------------+-----------------------------------------------------------------------+
+
+
+
+
+====================================================================================================
+STAVBA: [ADRESA / NÁZEV PROJEKTU]
+====================================================================================================
+
+Přehled zbytečných nákladů a záloh:
+
++---------------------------+------------+----------------+-------------------------------+------------------------------------------------+
+| Položka                  | Zaplaceno  | Skutečná/nutná | Zbytečné náklady / nárok k vrácení | Poznámka                                      |
++---------------------------+------------+----------------+-------------------------------+------------------------------------------------+
+| Bourání (ruční vs bagr)  | 1,700,000  | 63,636         | 1,636,364                        | Rozdíl mezi fakturovanou ruční demolicí a hypotetickou |
+|                           |            |                |                                   | bagrovou demolicí; zbytečné náklady vzniklé nedostatečným průzkumem a plánováním |
++---------------------------+------------+----------------+-------------------------------+------------------------------------------------+
+| Projekt + posudky         | 235,950    | 84,700         | 151,250                          | Část projektových prací a posudků, které nebyly provedeny nebo nebyly nutné (statika, radon) |
++---------------------------+------------+----------------+-------------------------------+------------------------------------------------+
+| Vyřízení dotace           | 96,800     | 0              | 96,800                           | Poplatek firmě za vyřízení dotace, kterou bychom jinak nepožadovali, protože objekt byl identifikován nesprávně |
++---------------------------+------------+----------------+-------------------------------+------------------------------------------------+
+| CELKEM                    | 2,032,750  | 148,336        | 1,884,414                        | Celková orientační částka k vrácení / kompenzaci |
++---------------------------+------------+----------------+-------------------------------+------------------------------------------------+
+
+Materiál na staveništi:
+- Palety ztraceného bednění, keramické překlady nad okna/dveře, stavební prkna
+- Práce byly ukončeny během bourací fáze, žádný nový materiál nebyl instalován
+- Část položek byla již použita (např. překlady s izol. pěnou)
+- Materiál není odečitatelný z nároku na vrácení záloh
+
+====================================================================================================
+Preferovaný způsob vyrovnání:
+
+Jednorázová platba: očekáváme, že celá částka 1,884,414 Kč bude uhrazena nejpozději do [datum]
+
+Záložní splátkový plán (pokud by jednorázová platba nebyla možná):
+
++---------+-----------+------------+-------------------------+---------------------------+
+| Splátka | % částky  | Částka (Kč)| Úrok za 7 dní prodlení  | Úrok za 14 dní prodlení  |
++---------+-----------+------------+-------------------------+---------------------------+
+| 1.      | 50%       | 942,207    | 3,319                   | 6,638                     |
+| 2.      | 25%       | 471,103    | 1,660                   | 3,320                     |
+| 3.      | 25%       | 471,103    | 1,660                   | 3,320                     |
++---------+-----------+------------+-------------------------+---------------------------+
+
+Úrok z prodlení: 0,05% z dlužné částky/den, počínaje dnem po uplynutí termínu splátky
+
+====================================================================================================
+Argumenty pro dohodu – proč by měla firma přistoupit:
+
++---------------------------+-----------------------------------------------------------------------+
+| Fakta hovoří ve váš prospěch                                                             |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Ukončené práce během bourací fáze | Žádná nová stavba nezačala; materiál nebyl využit.        |
+| 2. Zbytečné náklady               | Rozdíl mezi ruční demolicí vs. bagr, projektové posudky,|
+|                                   | vyřízení dotace, které nebyly nutné.                   |
+| 3. Dodaný materiál                 | Palety bednění, keramické překlady, prkna – většina     |
+|                                   | nepoužitá nebo opotřebovaná.                          |
++---------------------------+-----------------------------------------------------------------------+
+| Finanční a právní tlak                                                              |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Pojistka firmy                 | Možnost náhrady škody přes pojišťovnu – reálné riziko |
+| 2. ČKAIT                          | Hrubé nedodržení řádného postupu může vést k profesním|
+|                                   | sankcím.                                              |
++---------------------------+-----------------------------------------------------------------------+
+| Jednoduchost a rychlost dohody                                                     |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Mimosoudní řešení              | Jednorázová platba nebo pevně stanovený splátkový     |
+|                                   | plán = minimální administrativní náročnost.           |
+| 2. Riziko sporu                    | Nedohoda → dlouhý, drahý a veřejný právní spor.       |
++---------------------------+-----------------------------------------------------------------------+
+| Motivace ke splnění termínů                                                       |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Pevné termíny + úroky z prodlení   | 0,05 %/den = rychlá finanční motivace platit včas. |
++---------------------------+-----------------------------------------------------------------------+
+| Férovost a dobré jméno                                                            |
++---------------------------+-----------------------------------------------------------------------+
+| 1. Férová nabídka                  | Celková částka nebo rozumný splátkový plán – firma   |
+|                                   | ukazuje, že jedná profesionálně a korektně.          |
++---------------------------+-----------------------------------------------------------------------+
+
+====================================================================================================
+Cíl: vyrovnat situaci mimosoudně a férově, minimalizovat prodlevy a rizika, udržet transparentní a profesionální jednání.
+====================================================================================================
+
+
+
+
+
+
+
+
+
+===========================================================
+CHECKLIST PRO SCHŮZKU – NOVÁ FIRMA
+===========================================================
+
+1) CENA A ROZSAH PRACÍ
+-----------------------------------------------------------
+- Co přesně je zahrnuto v ceně? (materiál, práce, doprava, přípravy)
+- Co není zahrnuto a mohlo by být účtováno extra? (skládky, odvoz odpadu, speciální práce)
+- Jsou nějaké předpokládané položky, které mohou navýšit cenu?
+
+2) MATERIÁL
+-----------------------------------------------------------
+- Jaký materiál je zahrnut v ceně?   (drenáže)
+- Kdo dodává materiál – firma nebo investor?
+- Jsou možné varianty materiálu a jak ovlivní cenu?
+
+3) TERMÍNY
+-----------------------------------------------------------
+- Kdy je možné zahájit a dokončit práce?
+- Jaká je flexibilita termínů?
+- Jak se řeší zpoždění a prodloužení prací?
+
+4) PLATEBNÍ PODMÍNKY
+-----------------------------------------------------------
+- Jsou vyžadovány zálohy? Pokud ano, kolik a kdy?
+- Jsou možné splátky – a pokud ano, kolik a s jakými termíny?
+- Jak se řeší úroky nebo sankce při prodlení plateb?
+
+5) POJIŠTĚNÍ A ZÁRUKY
+-----------------------------------------------------------
+- Má firma pojištění odpovědnosti za škody?
+- Jaká je záruka na provedené práce a dodaný materiál?
+- Jak se řeší případné reklamace nebo škody?
+
+6) KOMUNIKACE A DOKUMENTACE
+-----------------------------------------------------------
+- Budou poskytovány průběžné zprávy / fotodokumentace?
+- Jak se bude evidovat práce a materiál (pro případ sporu)?
+- Jaké dokumenty budou k dispozici pro kontrolu a schválení?
+
+7) PROJEKT A PROVADECI DOKUMENTACE
+-----------------------------------------------------------
+- Bylo by mozno nechat si udelat u nich projekt i s dokumentaci pro realizaci stavby?
+- bylo by mozno ten projekt udelat "prednostne" pro tu sklepni cast (vceten statickeho posudku atd) aby se stavba co nejmene zdrzovala? 
+
+
+8) SCÉNÁŘ “CO KDYŽ”
+-----------------------------------------------------------
+- Jak reaguje firma, pokud dojde ke změnovému listu od původní firmy?
+- Jak se řeší zrušení spolupráce nebo změna rozsahu prací?
+- Jsou v nabídce flexibilní podmínky pro případ, že část díla nebude realizována?
+
+===========================================================
+TIPY:
+- Schůzka je **jen informační**, nic nepodepisuj.
+- Nehovoř o ukončení spolupráce se současnou firmou.
+- Poznamenej si všechny odpovědi pro pozdější srovnání nabídek.
+===========================================================
+
+
+
 
